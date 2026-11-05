@@ -9,7 +9,8 @@ Prática de lógica, algoritmos e POO em Java, feita para consolidar a base.
 | `01-aquecimento` | FizzBuzz, números primos (otimização até a raiz quadrada), `List<Integer>`, validação de entrada |
 | `02-strings-colecoes` | Palíndromo (regex), contagem de palavras com `Map<String, Integer>` |
 | `03-conta-bancaria` | Encapsulamento, construtor, `List` de objetos, herança (`ContaPoupanca`), polimorfismo, `instanceof` |
-
+| `04-sql`       |	SELECT, WHERE, ORDER BY, GROUP BY, INNER JOIN e LEFT JOIN |
+ 
 ## Como rodar
 
 ```bash
